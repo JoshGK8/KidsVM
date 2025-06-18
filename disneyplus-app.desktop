@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Disney+
+Comment=Disney Plus Streaming
+Exec=chromium-browser --kiosk https://disneyplus.com
+Icon=disneyplus
+Type=Application
+Categories=AudioVideo;Network;
+StartupNotify=true

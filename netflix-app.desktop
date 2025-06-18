@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Netflix
+Comment=Netflix Streaming
+Exec=chromium-browser --kiosk https://netflix.com
+Icon=netflix
+Type=Application
+Categories=AudioVideo;Network;
+StartupNotify=true
